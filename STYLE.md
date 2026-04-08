@@ -28,8 +28,6 @@ gradient-descent.md
 singular-value-decomposition.md
 ```
 
-- Titles inside files: English or Russian — both allowed
-
 ---
 
 ## Linking
